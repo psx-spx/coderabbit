@@ -1,0 +1,6 @@
+# Org-wide CodeRabbit settings. No automatic reviews on any branch:
+# stable is reviewed by its own maintainers. Reviews on master are
+# requested explicitly with "@coderabbitai review".
+reviews:
+  auto_review:
+    enabled: false
